@@ -1,2 +1,2 @@
-# maridadi_auto_spare_parts
+# Maridadi Auto Spare Parts
 The website for the automobile spare parts of Maridadi
