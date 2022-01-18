@@ -1,63 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name: Carserv - Auto Servicing & Repair bootstrap 5 Template
-    Author: codecarnival
-    Author URL: https://themeforest.net/user/codecarnival
-    Support: https://hasthemes.com/contact-us/
-    Description: Car Service & Repair Website Template
-    Version: 1.0
-
------------------------------------------------------------------------------------
-    
-    CSS INDEX
-    ===================
-	
-    01. Theme default CSS
-    02. Elements CSS
-        2.1 - Form CSS
-        2.2 - Button CSS
-    03. Header CSS
-        3.1 - Header Top CSS
-        3.2 - Header Main CSS
-        3.2 - Mobile Menu CSS
-    04. Pages CSS (All Page Styles)
-        4.1 - Slider CSS
-        4.2 - About CSS
-        4.3 - Services CSS
-        4.4 - Call To Action CSS
-        4.5 - Why Choose CSS
-        4.6 - How We Work CSS
-        4.7 - Testimonials CSS
-        4.8 - Blog CSS
-        4.9 - Brand CSS
-        4.10 - Page Banner CSS
-        4.11 - Team CSS
-        4.12 - Service Details CSS
-        4.13 - Project Gallery CSS
-        4.14 - Project Gallery CSS
-        4.15 - Team Profile CSS
-        4.16 - Shop CSS
-        4.17 - Product Details CSS
-        4.18 - Blog Details CSS
-        4.19 - Contact Us CSS
-        4.20 - Registration & Login Form CSS
-        4.21 - Error CSS
-        4.22 - FAQ'S CSS
-        4.23 - Cart CSS
-        4.24 - Compare CSS
-        4.25 - Checkout CSS
-        4.26 - My Account CSS
-    05. Widget CSS
-        5.1 - Sidebar Widget CSS
-        5.2 - Footer Widget CSS
-    07. Footer CSS
-
-	
-
------------------------------------------------------------------------------------*/
-/*----------------------------------------*/
-/*  01. Theme default CSS
-/*----------------------------------------*/
 /*-- Google Font --*/
 @import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700;900&display=swap");
 /*-- Common Style --*/
@@ -2759,6 +2699,7 @@ select {
   padding: 0;
   border: 0;
   background: none;
+  padding-top: 9px !important;
 }
 
 .header-toggle .menu-toggle span {
